@@ -1,0 +1,45 @@
+.navbar{
+    background-color: #15a63a !important;
+}
+
+.navbar-brand{
+    color: #fff !important;
+}
+
+.nav-link{
+    color: #fff !important;
+}
+
+.order-header{
+    background-color: #27df56;
+    color: #fff;
+}
+
+.order-header a{
+    color: #fff;
+    text-decoration: none;
+}
+
+.btn-dark{
+    background-color: #15a63a;
+    color: #fff;
+    border: none;
+}
+
+.btn-dark:hover{
+    background-color: #fff;
+    color: #000;
+    transition: 1s;
+}
+
+.btn-secondary{
+    background-color: #27df56;
+    color: #fff;
+    border: none;
+}
+
+.btn-secondary:hover{
+    background-color: #fff;
+    color: #000;
+    transition: 1s;
+}
